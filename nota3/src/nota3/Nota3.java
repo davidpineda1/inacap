@@ -1,4 +1,4 @@
-
+//calculadora, con switch
 package nota3;
 import java.util.Scanner;
 
